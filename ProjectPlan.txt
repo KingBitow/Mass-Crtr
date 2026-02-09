@@ -1,0 +1,14 @@
+Insta-mass-account-creator/
+├── run.py                  ← main file to execute
+├── config.py
+├── generateaccountinformation.py
+├── storeusername.py
+├── activate_account.py
+├── requestbot.py
+├── seleniumbot.py          ← note: usually called seleniumbot.py (not seleniumnumbot)
+├── getidentity.py
+├── reporter/               ← this is a folder (can be empty or for logs later)
+├── Assets/
+│   ├── proxies.txt
+│   └── usernames.txt
+└── requirements.txt

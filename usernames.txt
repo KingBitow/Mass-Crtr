@@ -1,0 +1,3 @@
+# Example after run:
+testuser12345:abc123xyz:randomuser12345@gmail.com
+anotheracc99:pass456789:testacc99@gmail.com
